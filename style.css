@@ -1,0 +1,19 @@
+.body_backgorund{
+background-image: url("bg2.png");
+background-position: center;
+background-size: cover;
+}
+h1{
+color: darkblue;
+border: 3px;
+border-radius: 40%;
+border-color: black;
+font-family: cursive;
+}
+
+#mycanvas{
+    border-width: 20px;
+    background-color: cyan;
+    border-style: dotted;
+}
+
